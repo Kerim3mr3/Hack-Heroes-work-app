@@ -15,6 +15,6 @@
 
 # **Kurulum**
 
-**İndirmek İçin:** git clone https://github.com/KullaniciAdi/RepoAdi.git
-**Gereksinimleri yükleyin:** pip install -r requirements.txt
-**Uygulamayı başlatın:** python is_uygulamasi.py
+**İndirmek İçin:** git clone https://github.com/KullaniciAdi/RepoAdi.git  
+**Gereksinimleri yükleyin:** pip install -r requirements.txt  
+**Uygulamayı başlatın:** python is_uygulamasi.py  
