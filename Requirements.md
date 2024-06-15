@@ -1,4 +1,3 @@
-Gereksinmler/Requirements
 pip install socket
 pip instal time 
 pip install tkinter
