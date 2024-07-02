@@ -17,4 +17,4 @@
 
 **İndirmek İçin:** git clone https://github.com/Kerim3mr3/Hack-Heroes-work-app.git  
 **Gereksinimleri yükleyin:** pip install -r requirements.txt  
-**Uygulamayı başlatın:** python is_uygulamasi.py  
+**Uygulamayı başlatın:** python is_uygulamasi.py
